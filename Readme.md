@@ -4,7 +4,7 @@ Welcome to **SilverWay Software**! 🎉
 
 SilverWay is your ultimate tool for efficiently managing customers, companies, quotations, and more. It’s designed to streamline your workflow and enhance productivity. 💼
 
----
+#
 
 ## Features 🌟
 
@@ -15,7 +15,7 @@ Here are some of the amazing features SilverWay offers:
 - **Quotation Management** 📄: Create, edit, and manage quotations effortlessly.
 - **User-Friendly Interface** 🎨: Navigate smoothly with our intuitive design.
 
----
+#
 
 ## Installation ⚙️
 
@@ -32,7 +32,7 @@ Follow these steps to get started:
 
 
 
----
+#
 
 ## Usage 🛠️
 
@@ -41,4 +41,4 @@ Follow these steps to get started:
 3. Export data or generate reports as needed.
 4. Enjoy hassle-free management! 🎉
 
----
+#
